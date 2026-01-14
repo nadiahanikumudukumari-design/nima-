@@ -1,0 +1,15 @@
+Conversation with MongoDB
+Started on January 13, 2026 at 08:52 PM Eastern Time (US & Canada) time EST (GMT-0500)
+
+---
+
+08:52 PM | Nadiahani Kumudukumari: I want to talk to an expert
+
+08:52 PM | MBot: We'd be happy to connect you. Please tell us how our team can help.
+
+08:53 PM | Nadiahani Kumudukumari: I want to discuss a new use case
+
+08:53 PM | MBot: Our sales team is currently unavailable. You can ask questions here. How can I help?
+
+---
+Exported from MongoDB on January 13, 2026 at 08:53 PM Eastern Time (US & Canada) time EST (GMT-0500)
